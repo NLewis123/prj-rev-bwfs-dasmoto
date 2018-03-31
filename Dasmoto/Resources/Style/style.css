@@ -1,0 +1,42 @@
+h1{
+  background:
+   url("../Images/pattern.jpeg") no-repeat center center;
+  text-align: center;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: 600;
+  color:khaki;
+  width: 100%;
+  background-color: skyblue;
+}
+#brushestitle{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  color: white;
+  background-color: mediumspringgreen;
+}
+#framestitle{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  color: white;
+  background-color: lightcoral;
+}
+#painttitle{
+  font-family:Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  color: white;
+  background-color: skyblue;
+
+}
+#price{
+  font-family: Helvetica;
+  font-weight: 600;
+  color: blue;
+}
+.title{
+  height: 200px;
+}
